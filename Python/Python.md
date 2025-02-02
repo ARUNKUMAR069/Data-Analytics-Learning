@@ -8,9 +8,23 @@ Guido Van Rossum
  
 
 - Features of Python
- Object Oriendted
- Dynamically Typed
- GUI programming Support
- Extensible
- Large Standard library
- Free
+-  Object Oriendted
+-  Dynamically Typed
+-  GUI programming Support
+-  Extensible
+-  Large Standard library
+-  Free and Open Source
+-  Cross Platform language
+-  interpreted Language
+-  Expressive Language
+-  Easy to Lear & USe
+
+
+- Applications of Python
+- Data Science
+- Web Development
+- Data Engineering
+- Machine learning
+- Artifical Intelligence
+- Data Anaytics
+-
