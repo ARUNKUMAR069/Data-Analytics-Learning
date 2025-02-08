@@ -141,4 +141,44 @@ print("IsNot:",IsNot)
 
 
 
+#  Bitwise Operators
+#  Types of Bitwise Operators
+#  & (AND)
+#  | (OR)
+#  ^ (XOR)
+#  ~ (NOT)
+#  << (Zero fill left shift)
+#  >> (Signed right shift)
+
+
+#  AND Operator
+
+zero=0
+one=1
+AND=zero & one
+print("AND:",AND)
+# OR Operator
+OR=zero | one
+print("OR:",OR)
+# XOR Operator
+XOR=zero ^ one
+print("XOR:",XOR)
+# NOT Operator
+NOT=~one
+print("NOT:",NOT)
+# Zero fill left shift Operator
+ZeroFillLeftShift=zero<<one
+print("ZeroFillLeftShift:",ZeroFillLeftShift)
+# Signed right shift Operator
+SignedRightShift=zero>>one
+print("SignedRightShift:",SignedRightShift)
+
+
+
+
+
+
+
+
+
 
