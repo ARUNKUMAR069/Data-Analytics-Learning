@@ -81,5 +81,49 @@ print("Or:",Or)
 print("Not:",Not)
 
 
+#  Assignment Operators
+#  Types of Assignment Operators
+#  =
+#  +=
+#  -=
+#  *=
+#  /=
+#  %=
+#  **=
+#  //=
+x=5
+# =
+Equal=x
+# +=
+x+=5
+PlusEqual=x
+# -=
+x-=5
+MinusEqual=x
+# *=
+x*=5
+MultiplicationEqual=x
+# /=
+x/=5
+DivisionEqual=x
+# %=
+x%=5
+ModulusEqual=x
+# **=
+x**=5
+ExponentiationEqual=x
+# //=
+x//=5
+FloorDivisionEqual=x
+print("Equal:",Equal)
+print("PlusEqual:",PlusEqual)
+print("MinusEqual:",MinusEqual)
+print("MultiplicationEqual:",MultiplicationEqual)
+print("DivisionEqual:",DivisionEqual)
+print("ModulusEqual:",ModulusEqual)
+print("ExponentiationEqual:",ExponentiationEqual)
+print("FloorDivisionEqual:",FloorDivisionEqual)
+
+
 
 
