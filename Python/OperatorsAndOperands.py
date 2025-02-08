@@ -174,6 +174,20 @@ SignedRightShift=zero>>one
 print("SignedRightShift:",SignedRightShift)
 
 
+#  Membership Operators
+#  Types of Membership Operators
+# 1. in 
+# 2. not in
+x=[1,2,3,4,5]
+y=5
+
+# in
+In=y in x   
+# not in
+NotIn=y not in x
+
+print("In:",In)
+print("NotIn:",NotIn)
 
 
 
