@@ -126,4 +126,19 @@ print("FloorDivisionEqual:",FloorDivisionEqual)
 
 
 
+#  Identity Operators
+#  Types of Identity Operators
+#  is
+#  is not
+x=5
+y=5
+# is
+Is=x is y
+# is not
+IsNot=x is not y
+print("Is:",Is)
+print("IsNot:",IsNot)
+
+
+
 
