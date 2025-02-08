@@ -6,3 +6,4 @@ if letter in letters:
     print("The letter is a vowel")
 else:
     print("The letter is a consonant")
+    
