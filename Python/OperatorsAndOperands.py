@@ -61,4 +61,25 @@ print("LessThanOrEqual:",LessThanOrEqual)
 # Output:
 
 
+#  Logical Operators in Python
+#  Types of Logical Operators
+#  and
+#  or
+#  not
+
+x=True
+y=True
+# and
+And=x and y
+# or
+z=False
+Or=x or z
+# not
+Not= not (x and y)
+print("And:",And)
+print("Or:",Or)
+print("Not:",Not)
+
+
+
 
