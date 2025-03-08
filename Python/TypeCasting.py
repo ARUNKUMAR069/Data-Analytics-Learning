@@ -29,3 +29,4 @@ b1= 20.5
 c1= int(a1)+int(b1)
 print(c1)
 print(type(c1))
+#null
